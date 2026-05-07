@@ -36,7 +36,7 @@
 
 # Capturas de Pantalla Obligatorias
 
-## **Parte 1 — Infraestructura Docker (5 capturas)**
+## **Parte 1 — Infraestructura Docker**
 
 ## 1. Salida de docker --version y docker info en la terminal
 
