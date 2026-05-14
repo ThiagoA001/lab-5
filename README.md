@@ -39,7 +39,7 @@
 ## **Parte 1 — Infraestructura Docker**
 
 ## 1. Salida de docker --version y docker info en la terminal
-
+![Versión de Docker](capturas/01-docker-version.png)
 ## 2. Salida de docker network ls mostrando la red java-net
 ![Red creada](capturas/02-red-creada.png)
 ## 3. Salida de docker volume inspect mysql-data
